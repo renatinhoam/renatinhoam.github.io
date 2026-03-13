@@ -107,7 +107,7 @@ const caseData = {
             scenario: ["Equipe tradicional com pouco foco em dados", "Processos 100% manuais (exceto PDV central)", "Ausência de gestão de custos e alinhamento interno"],
             difficulties: ["Baixo histórico de dados higienizados", "Operação com horários complexos", "Falta de conhecimento técnico da equipe"],
             actions: ["Tradução da gestão técnica para ferramentas visuais", "Acompanhamento semanal com líderes via Kanban", "Padronização de processos e mapeamento de CMV", "Análise de dados para planos de investimento e novos produtos"],
-            results: ["Relatórios detalhados para decisões estratégicas", "Otimização de cardápio, estoque e melhoria de CMV", "Estratégias claras de posicionamento e crescimento"]
+            results: ["110% de aumento das vendas de item após alteração baseada em análise de UI", "Melhor tomada de decisão e aumento da eficiência", "Otimização de cardápio, estoque e melhoria de CMV", "Estratégias claras de posicionamento e crescimento"]
         },
         en: {
             title: "Restaurant Strategy",
@@ -115,7 +115,7 @@ const caseData = {
             scenario: ["Traditional team with low data focus", "100% manual processes (except central POS)", "Lack of cost management and internal alignment"],
             difficulties: ["Low history of cleaned/organized data", "Complex operational schedules", "Lack of technical knowledge in the team"],
             actions: ["Translation of management language into visual tools", "Weekly leader meetings based on Kanban", "Process standardization and COGS mapping", "Data analysis for investment plans and new products"],
-            results: ["Detailed reports for strategic decision-making", "Optimization of menu, stock, and COGS improvement", "Clear vision for business positioning and growth strategies"]
+            results: ["110% increase in item sales after UI analysis-based alteration", "Better decision making and increased efficiency", "Optimization of menu, stock, and COGS improvement", "Clear vision for business positioning and growth strategies"]
         }
     },
     superapp: {
