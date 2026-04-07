@@ -1154,6 +1154,14 @@ footer {
         font-size: 1.5rem;
     }
 
+    nav {
+        padding: 0.8rem 0;
+    }
+
+    .nav-content {
+        gap: 0.5rem;
+    }
+
     .nav-links {
         display: none;
     }
@@ -1161,16 +1169,32 @@ footer {
     .nav-search {
         order: 4;
         max-width: 100%;
-        margin: 1rem 0 0 0;
+        margin: 0.5rem 0 0 0;
         width: 100%;
+    }
+
+    .nav-search .search-bar-wrapper {
+        padding: 0 0.5rem;
+    }
+
+    .nav-search #experienceSearch {
+        padding: 0.4rem 0;
+        font-size: 0.75rem;
     }
 
     .logo {
         flex: 1;
     }
 
+    .lang-toggle {
+        padding: 0.4rem 0.6rem;
+        font-size: 0.75rem;
+    }
+
     .nav-cta {
         margin-left: auto;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.75rem;
     }
 
     .metrics-grid {
