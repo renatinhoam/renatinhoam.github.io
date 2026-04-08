@@ -161,6 +161,7 @@ nav {
     max-width: 800px;
     margin: 0 auto 1.5rem;
     color: var(--text-main);
+    text-align: center;
 }
 
 .hero .subheadline {
@@ -168,6 +169,7 @@ nav {
     color: var(--text-muted);
     max-width: 700px;
     margin: 0 auto 3rem;
+    text-align: center;
 }
 
 .btn-group {
@@ -1168,7 +1170,7 @@ footer {
 
     .nav-search {
         order: 4;
-        flex: none;
+        flex: 1 1 100% !important;
         max-width: 100%;
         margin: 0.5rem 0 0 0;
         width: 100%;
